@@ -5,7 +5,7 @@
             "years": "2023 -",
             "code": "CSCI 338",
             "title": "Software Engineering",
-            "description": "YYY",
+            "description": "An exploration of the processes and tools that work to create scalable and maintainable software.",
             "sessions": {
                 "2023-2024": [
                     {
@@ -84,8 +84,8 @@
         {
             "years": "2018 - 2022",
             "code": "CS 110",
-            "title": "Intro to Programming for the Web",
-            "description": "Introduction to computer programming with Python for undergraduate students (non-majors track)",
+            "title": "Intro to Programming with Python",
+            "description": "Introduction to computer programming for non-majors, with a focus on interacting with data and multimedia.",
             "sessions": {
                 "2021-2022": [
                     {
@@ -162,7 +162,7 @@
             "years": "2020 - 2022",
             "code": "CS 396",
             "title": "Intro to Full Stack Web Development",
-            "description": "Full Stack web development for CS undergraduate and masters' students",
+            "description": "A exploration of the methods and tools for doing \"full stack\" web development for CS undergraduate and master's students",
             "sessions": {
                 "2021-2022": [
                     
@@ -189,7 +189,7 @@
             "years": "2020 - 2022",
             "code": "CS 396",
             "title": "Computing, Ethics & Society",
-            "description": "XXX undergraduate and masters' students",
+            "description": "An exploration of the benefits and harms (individual, cultural, political) of computing technologies; and an examination of the values, ideologies, and contexts through which computing technologies emerge. For undergraduate and master's students.",
             "sessions": {
                 "2021-2022": [
                     {
@@ -214,8 +214,7 @@
             "years": "2019 - 2021",
             "code": "CS 330",
             "title": "Intro to Human-Computer Interaction",
-            "description": "Undergraduate / Masters' course at Northwestern University (CS majors)",
-            "sessions": {
+            "description": "An exploation of n application of various human-computer interaction methods and considerations",            "sessions": {
                 "2020-2021": [
                     {
                         "period": "Winter",
@@ -238,6 +237,60 @@
             }
         }
     ],
-    "Berkeley City College": [],
-    "UC Berkeley": []
+    "Berkeley City College": [
+        {
+            "years": "2016 - 2018",
+            "code": "MMART 162",
+            "title": "Intro to Computer Programming with JavaScript",
+            "description": "TBD",
+            "sessions": {
+                "2017-2018": [
+                    {
+                        "period": "Fall",
+                        "notes": " (Web App Focus with Ricky Holtz)"
+                    }
+                ],
+                "2016-2017": [
+                    {
+                        "period": "Fall",
+                        "notes": " (Animation focus)"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2016",
+            "code": "MMART 168",
+            "title": "Intro to Web Design with WordPress",
+            "description": "An introduction to Web design with HTML, CSS, and WordPress for community college students.",
+            "sessions": {
+                "2016-2017": [
+                    {
+                        "period": "Summer"
+                    }
+                ]
+            }
+        }
+    ],
+    "UC Berkeley - School of Information": [
+        {"years": "2016 - 2018",
+            "code": "Info 206",
+            "title": "Distributed Computing Applications & Infrastructure",
+            "description": "An introduction to the fundamentals of data structures and data analysis (in Python) for Master's students.",
+            "sessions": {
+                "2012-2013": [
+                    {
+                        "period": "Spring",
+                        "notes": " (Graduate Teaching Assistant)"
+                    }
+                ],
+                "2013-2014": [
+                    {
+                        "period": "Summer",
+                        "notes": " (Lecturer)"
+                    }
+                ]
+            }
+        }
+    ]
 }

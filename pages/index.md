@@ -6,71 +6,14 @@ permalink: /
 
 {:#home}
 I am an Assistant Professor in the <a href="https://csci.unca.edu/">Department of Computer Science</a> at the University of North Carolina Asheville. As an educator, I develop and teach courses in human-computer interaction, web design / development, introductory programming, and computing / data ethics. 
-As a researcher, I design and study educational interventions that aim to (a) broaden participation in computing, and (b) help emerging computer scientists recognize and engage with the societal and ethical implications of their work. I also build computational tools that support civic advocacy and citizen science initiatives.
+As a researcher, I design and study educational interventions that aim to broaden participation in computing, and help emerging computer scientists recognize and engage with the societal and ethical implications of their work. I also build computational tools that support civic advocacy and citizen science initiatives.
 
-
-I currently have two active projects: (1) *creating contexts for social and ethical sensemaking for CS majors*, and (2) *understanding adult computing education pathways*. In the <em>ethical sensemaking</em> project, <a href="https://sites.northwestern.edu/sepehrvakil/" target="_blank">Sepehr Vakil</a>, Natalie Melo and I are examining some of the ways in which universities can help undergraduates engage with the societal impacts of computing (e.g., through independent study opportunities, <a href="https://www.raiso.org/" <a href="https://nu-tech-ethics.github.io/fall2021/syllabus/" target="_blank">course offerings</a>, service learning experiences, and <a href="https://raiso.substack.com/archive" target="_blank">student-run publications</a>); and whether and how students later integrate social and ethical considerations into their engineering practice.
-
-In the <em>adult computing education pathways</em> project,
-I am collaborating with the <a href="https://www.ywca-ens.org/economic-advancement/yw-tech-lab/" target="_blank">YW Tech Lab</a> (of the YWCA Evanston / North Shore) team to better understand the role of technical training programs (e.g., community college certificate programs, bootcamps, community classes, apprenticeship programs) in helping adult learners access tech jobs. This involves understanding teachers' and learners' experiences within these programs, the kinds of supports that are effective in fostering learning and self-efficacy, and how students use their newly aquired tech skills going forward.
-
-Prior to joining UNCA, I was an Assistant Professor of Instruction at Northwestern University, where I co-directed the <a href="https://tree.northwestern.edu">TREE Lab</a> with Sepehr Vakil. My Ph.D. is from the UC Berkeley <a href="https://www.ischool.berkeley.edu/">School of Information</a>, where I was advised by Tapan Parikh, and worked with Kris Gutiérrez, Paul Duguid, and Coye Cheshire.
-Before academia, I worked as a software designer/developer, building
-data and communication systems to support public accountability for city
-and regional development projects.
+Prior to joining UNCA, I was an Assistant Professor of Instruction at Northwestern University, where I co-directed the <a href="https://tree.northwestern.edu">TREE Lab</a> with Sepehr Vakil. My Ph.D. is from the UC Berkeley <a href="https://www.ischool.berkeley.edu/">School of Information</a>, where I was advised by Tapan Parikh, and worked with Kris Gutiérrez, Paul Duguid, and Coye Cheshire. Before academia, I worked as a software designer/developer, building data and communication systems to support public accountability for city and regional development projects.
 
 {:#teaching}
 # Teaching
 
 {% include courses-taught.html %}
-
-<h2 style="margin-top:30px;">Community College Courses</h2>
-<section class="teaching">
-<section class="details">
-    <h3>
-        MMART 162: Intro to Computer Programming w/JavaScript
-    </h3>
-    <div class="course-links">
-        <p>Community college course at Berkely City College</p>
-        <table>
-            <tr>
-                <td>2017-2018</td>
-                <td>
-                    <a href="https://f17.ebook.mmart.us/">Fall</a>
-                </td>
-                <td>Web app focus (with <a href="http://rickyholtz.com/">Ricky Holtz</a>)</td>
-            </tr>
-            <tr>
-                <td>2016-2017</td>
-                <td>
-                    <a href="https://c16.ebook.mmart.us/">Fall</a>
-                </td>
-                <td>Animation Focus</td>
-            </tr>
-        </table>
-    </div>
-</section>
-<p class="years">2016 - 2018</p>
-</section>
-<section class="teaching">
-<section class="details">
-    <h3>
-        Intro to Web Design with WordPress
-    </h3>
-    <div class="course-links">
-        <p>Community college course at Berkely City College</p>
-        <table>
-            <tr>
-                <td>2016-2017</td>
-                <td>
-                    <a href="https://ebook.mmart.us/">Summer</a>
-                </td>
-            </tr>
-        </table>
-    </div>
-</section>
-<p class="years">2016</p>
-</section>
 
 
 <h1 id="outreach">Outreach</h1>
@@ -137,6 +80,12 @@ and regional development projects.
 
 <p class="years">2014</p>
 </section>
+
+# Projects
+I currently have two active projects: (1) *creating contexts for social and ethical sensemaking for CS majors*, and (2) *understanding adult computing education pathways*. In the <em>ethical sensemaking</em> project, <a href="https://sites.northwestern.edu/sepehrvakil/" target="_blank">Sepehr Vakil</a>, Natalie Melo and I are examining some of the ways in which universities can help undergraduates engage with the societal impacts of computing (e.g., through independent study opportunities, <a href="https://www.raiso.org/" <a href="https://nu-tech-ethics.github.io/fall2021/syllabus/" target="_blank">course offerings</a>, service learning experiences, and <a href="https://raiso.substack.com/archive" target="_blank">student-run publications</a>); and whether and how students later integrate social and ethical considerations into their engineering practice.
+
+In the <em>adult computing education pathways</em> project,
+I am collaborating with the <a href="https://www.ywca-ens.org/economic-advancement/yw-tech-lab/" target="_blank">YW Tech Lab</a> (of the YWCA Evanston / North Shore) team to better understand the role of technical training programs (e.g., community college certificate programs, bootcamps, community classes, apprenticeship programs) in helping adult learners access tech jobs. This involves understanding teachers' and learners' experiences within these programs, the kinds of supports that are effective in fostering learning and self-efficacy, and how students use their newly aquired tech skills going forward.
 
 <!-- <h1 id="projects">Current Projects</h1>
 <p>

@@ -289,7 +289,7 @@ main a:hover {
     }
     display: grid;
     grid-template-columns: auto 100px;
-    column-gap: 40px;
+    // column-gap: 40px;
 
     ol, ul {
         margin-top: 10px;
@@ -344,8 +344,8 @@ main a:hover {
 
     .details {
         p {
-            padding-left: 4px;
-            margin: 8px 0;
+            // padding-left: 4px;
+            margin: 0 0 10px 0;
         }
 
         a, td, th, p  {
@@ -356,7 +356,7 @@ main a:hover {
 
     .course-links {
         margin-left: 0px;
-        border-left: solid 2px #ccc; //$orange;
+        // border-left: solid 2px #ccc; //$orange;
         // border-left: solid 4px $redpurple;
         margin-top: 3px;
 
@@ -365,7 +365,7 @@ main a:hover {
         }
        
         td:first-child {
-            padding-left: 4px;
+            padding-left: 0px;
             min-width: 105px;
         }
         td, th {
