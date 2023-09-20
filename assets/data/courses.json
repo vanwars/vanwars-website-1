@@ -1,0 +1,243 @@
+{
+    "UNC Asheville": 
+    [
+        {
+            "years": "2023 -",
+            "code": "CSCI 338",
+            "title": "Software Engineering",
+            "description": "YYY",
+            "sessions": {
+                "2023-2024": [
+                    {
+                        "period": "Fall",
+                        "url": "https://csci338.github.io/fall2023/",
+                        "notes": "(with Semmy Purewal)"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2023 -",
+            "code": "CSCI 480",
+            "title": "Capstone I",
+            "description": "YYY (CS Majors)",
+            "sessions": {
+                "2022-2023": [
+                    {
+                        "period": "Fall",
+                        "url": "https://docs.google.com/document/d/1678p6ZXKqNflDruk6a015rUeJLZ3IPXOJYPRX5Llpzg/edit#heading=h.ju6b4b6k6zry"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2023 -",
+            "code": "CSCI 344",
+            "title": "Advanced Web Development",
+            "description": "YYY (CS Majors)",
+            "sessions": {
+                "2022-2023": [
+                    {
+                        "period": "Spring",
+                        "url": "https://csci344.github.io/spring2023/"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2022 -",
+            "code": "CSCI 185",
+            "title": "Intro to Programming for the Web",
+            "description": "YYY (all majors)",
+            "sessions": {
+                "2023-2024": [
+                    {
+                        "period": "Fall",
+                        "url": "https://csci-185.github.io/fall2023/"
+                    }
+                ],
+                "2022-2023": [
+                    {
+                        "period": "Spring",
+                        "url": "https://csci-185.github.io/spring2022/"
+                    },
+                    {
+                        "period": "Fall",
+                        "url": "https://csci-185.github.io/fall2022/"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2022 -",
+            "code": "CSCI 333",
+            "title": "Algorithms",
+            "description": "YYY (CS Majors)",
+            "sessions": {
+                "2022-2023": [
+                    {"period": "Fall"}
+                ]
+            }
+        }
+    ],
+    "Northwestern University": [
+        {
+            "years": "2018 - 2022",
+            "code": "CS 110",
+            "title": "Intro to Programming for the Web",
+            "description": "Introduction to computer programming with Python for undergraduate students (non-majors track)",
+            "sessions": {
+                "2021-2022": [
+                    {
+                        "period": "Fall",
+                        "url": "https://eecs110.github.io/fall2021/"
+                    }
+                ],
+                "2020-2021": [
+                    {
+                        "period": "Winter",
+                        "url": "https://eecs110.github.io/winter2021/"
+                    },
+                    {
+                        "period": "Fall",
+                        "url": "https://eecs110.github.io/fall2020/"
+                    }
+                ],
+                "2019-2020": [
+                    {
+                        "period": "Winter",
+                        "url": "https://eecs110.github.io/winter2020/"
+                    },
+                    {
+                        "period": "Spring",
+                        "url": "https://eecs110.github.io/spring2020/"
+                    }
+                ],
+                "2018-2019": [
+                    {
+                        "period": "Winter",
+                        "url": "https://eecs110.github.io/winter2019/"
+                    },
+                    {
+                        "period": "Spring",
+                        "url": "https://eecs110.github.io/spring2019/"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2018 - 2022",
+            "code": "CS 130",
+            "title": "Intro to Programming for the Web",
+            "description": "An introduction to web design and web development for undergraduate students (all majors)",
+            "sessions": {
+                "2021-2022": [
+                    {
+                        "period": "Spring",
+                        "url": "https://eecs130.github.io/spring2022/"
+                    }
+                ],
+                "2020-2021": [
+                    {
+                        "period": "Spring",
+                        "url": "https://eecs130.github.io/spring2021/"
+                    }
+                ]
+                ,
+                "2019-2020": [
+                    {
+                        "period": "Spring",
+                        "url": "https://eecs130.github.io/spring2020/"
+                    }
+                ],
+                "2018-2019": [
+                    {
+                        "period": "Spring",
+                        "url": "https://eecs130.github.io/spring2019/"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2020 - 2022",
+            "code": "CS 396",
+            "title": "Intro to Full Stack Web Development",
+            "description": "Full Stack web development for CS undergraduate and masters' students",
+            "sessions": {
+                "2021-2022": [
+                    
+                    {
+                        "period": "Winter",
+                        "url": "https://cs396-web-dev.github.io/winter2022/"
+                    },
+                    {
+                        "period": "Spring",
+                        "url": "https://cs396-web-dev.github.io/spring2022/",
+                        "notes": "(with design help from Victoria Chavéz)"
+                    }
+                ],
+                "2020-2021": [
+                    {
+                        "period": "Spring",
+                        "url": "https://cs396-web-dev.github.io/spring2021/",
+                        "notes": "(with design help from Cooper Barth & Linus Okoth)"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2020 - 2022",
+            "code": "CS 396",
+            "title": "Computing, Ethics & Society",
+            "description": "XXX undergraduate and masters' students",
+            "sessions": {
+                "2021-2022": [
+                    {
+                        "period": "Fall",
+                        "url": "https://nu-tech-ethics.github.io/fall2021/syllabus/"
+                    }
+                ],
+                "2020-2021": [
+                    {
+                        "period": "Fall",
+                        "url": "https://docs.google.com/document/d/18EN_JseX-NS2t4osLYBIE81cXeB-kr39/edit#heading=h.matflcqec8b3",
+                        "notes": " (with Sepehr Vakil & Natalie Melo)"
+                    },
+                    {
+                        "period": "Winter",
+                        "url": "https://nu-tech-ethics.github.io/winter2021/syllabus/"
+                    }
+                ]
+            }
+        },
+        {
+            "years": "2019 - 2021",
+            "code": "CS 330",
+            "title": "Intro to Human-Computer Interaction",
+            "description": "Undergraduate / Masters' course at Northwestern University (CS majors)",
+            "sessions": {
+                "2020-2021": [
+                    {
+                        "period": "Winter",
+                        "url": "https://hci330.github.io/winter2021/",
+                        "notes": " (MS of Artificial Intelligence)"
+                    }
+                ],
+                "2019-2020": [
+                    {
+                        "period": "Winter",
+                        "url": "https://hci330.github.io/winter2020/"
+                    }
+                ],
+                "2018-2019": [
+                    {
+                        "period": "Winter",
+                        "notes": " (with Nell O'Rourke)"
+                    }
+                ]
+            }
+        }
+    ],
+    "Berkeley City College": [],
+    "UC Berkeley": []
+}

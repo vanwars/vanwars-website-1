@@ -1,0 +1,455 @@
+$orange: #ff7b00;
+$blue: #2978A0;
+$bluegreen: #315659;
+$redpurple: #e61438;
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+   margin: 0;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 1.1em;
+   color: #444;
+   background: #FFFFF7;
+}
+body, body * {
+   box-sizing: border-box;
+}
+
+p, a, td, th, li { 
+    line-height: 1.6em;
+    font-size: 1.0em;
+    margin-top: 0;
+}
+
+
+
+.left {
+    h1 {
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+        margin-bottom: 0px;
+    }
+    .news {
+        position: sticky;
+        position: -webkit-sticky;
+        top: 40px;
+
+        > section {
+            padding: 20px 0 15px 0;
+            // border-bottom: solid 1px #ccc;
+        }
+    }
+
+    ul.profile {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .date {
+        font-size: 0.8em;
+        color: #444;
+        margin: 5px 0;
+    }
+
+    p, li, a {
+        font-size: 0.85rem;
+        line-height: 1.1rem;
+        margin: 0;
+    }
+
+    h2 {
+        margin: 0 0 0px 0;
+        font-size: 0.9em;
+        font-weight: 600;
+        text-transform: uppercase;
+        // color: $redpurple;
+        color: black;
+        font-family: 'Open Sans', sans-serif;
+        border-bottom-width: 0;
+    }
+
+    img {
+        margin-top: 10px;
+        width: 100%;
+    }
+    hr {
+        background: transparent;
+        height: 0;
+        border: 0;
+        // border-bottom: solid 1px $orange;
+        border-bottom: solid 1px #ccc;
+    }
+    
+}
+
+// .right > section {
+//     margin-bottom: 10px;
+// }
+
+.mobile {
+    display: none;
+}
+.home {
+    display: none;
+}
+// main.sticky {
+//     margin-top: 90px;
+// }
+
+main h2 {
+    border-bottom: solid 1px #999;
+    // border-bottom: solid 1px $orange;
+}
+
+header, nav, footer, aside, main {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+header {
+   align-items: flex-end;
+   
+   h1 {
+        margin-bottom: 0px;
+        font-size: 3em;
+        margin-top: 40px;
+        font-family: 'Sue Ellen Francisco', cursive;
+    }
+}
+nav {
+    height: 55px;
+    background: #FFFFF7;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    // border: solid 1px #000;
+
+    li {
+        display: flex !important;
+    }
+    ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        margin: 0px;
+        li {
+            list-style: none;
+            padding: 5px;
+            a, a:visited {
+                padding: 8px;
+                color: #444;
+                font-weight: 500;
+                text-decoration: none;
+                outline: none;
+                position: relative;
+            }
+            a:after, a:visited:after {
+                content: '';
+                height: 3px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 0%;
+                background: $orange;
+                transition: 0.2s;
+            }
+            a:hover:after,
+            a:focus:after,
+            a:visited:hover:after,
+            a:visited:focus:after {
+                width: 100%;
+            }
+        }
+    }
+}
+
+#ai-society-references {
+    main {
+        grid-template-columns: 280px auto;
+        max-width: 1100px;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        h1 {
+            text-align: left;
+        }
+    }
+}
+main {
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 350px auto;
+    // padding-left: 5vw;
+    // padding-right: 10vw;
+    column-gap: 60px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    min-height: 65vh;
+    max-width: 1200px;
+    // margin: 0 auto;
+
+    .left {
+        padding-left: 5vw;
+    }
+
+    h1 {
+        font-family: 'Sue Ellen Francisco', cursive;
+        font-size: 2.5em;
+        color: #000;
+        margin: 0;
+        padding-top: 60px;
+        margin-top: -30px;
+    }
+    h2, h4 {
+        font-family: 'Open Sans Condensed', sans-serif;
+    }
+    h2 {
+        font-size: 1.8em;
+        color: #444;
+        font-weight: 500;
+        padding-bottom: 3px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    h3 {
+        font-size: 1.1em;
+        font-weight: 600;
+        color: black;
+    }
+    h4 {
+        font-size: 1.4em;
+    }
+}
+
+
+h1 {
+    font-weight: 300;
+    font-size: 2.2em;
+}
+
+
+main a, main a:visited, main a:active, main a:link {
+    text-decoration: underline;
+    color: $blue;
+}
+main a:hover {
+    text-decoration: none;
+}
+.region section a {
+    display: flex;
+    height: 100%;
+    text-decoration: none;
+    color: #000;
+    flex-direction: column-reverse;
+    align-self: stretch;
+    text-align: center;
+    justify-content: center;
+}
+.region section a:hover {
+    color: #000;
+}
+
+
+.region section.api-tutor {
+    font-family: 'Roboto';
+    font-size: 40px;
+    background-image: -webkit-linear-gradient(top, #666, #111);
+}
+.region section.api-tutor a {
+    color: white;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.region section.api-tutor img {
+    align-self: center;
+    margin-right: 10px;
+}
+.venue {
+    font-weight: 600;
+    color: #000;
+}
+
+.teaching, .outreach {
+    > section {
+        margin-bottom: 30px;
+    }
+    display: grid;
+    grid-template-columns: auto 100px;
+    column-gap: 40px;
+
+    ol, ul {
+        margin-top: 10px;
+        li {
+            margin-bottom: 5px;
+        }
+    }
+
+    h3, .years {
+        text-transform: uppercase;
+        font-weight: 600;
+        margin: 0;
+        font-size: 1em;
+        margin: 0;
+    }
+    .years {
+        text-align: right;
+    }
+}
+
+.publications {
+
+    a, li {
+        font-size: 1rem;
+        line-height: 1.6em;
+        word-break: break-word;
+    }
+
+    .year {
+        font-weight: 600 !important;
+    }
+
+    ul {
+        margin: 0px;
+        padding: 0px;
+        // overflow-wrap: break-word;
+
+        li {
+            list-style-type: none;
+            margin-bottom: 0.8em;
+            margin-left: 2em;
+            text-indent: -2em;
+        }
+    }
+}
+
+.teaching {
+    p, h3 {
+        font-size: 1em;
+        margin: 0;
+    }
+
+    .details {
+        p {
+            padding-left: 4px;
+            margin: 8px 0;
+        }
+
+        a, td, th, p  {
+            font-size: 1rem;
+            line-height: 1.4em;
+        }
+    }
+
+    .course-links {
+        margin-left: 0px;
+        border-left: solid 2px #ccc; //$orange;
+        // border-left: solid 4px $redpurple;
+        margin-top: 3px;
+
+        h3 {
+            padding-left: 4px;
+        }
+       
+        td:first-child {
+            padding-left: 4px;
+            min-width: 105px;
+        }
+        td, th {
+            margin: 0px;
+            padding: 0px 10px 0px 0px;
+        }
+    }
+}
+
+
+
+@media (max-width: 1200px) {
+    main {
+        .right {
+            padding-left: 3vw;
+
+            // >section, >h1, >h2 {
+            //     padding-right: 5vw;
+            // }
+        }
+    }
+}
+@media (max-width: 800px) {
+    .container {
+        display: block;
+    }
+    main {
+        .right {
+            padding-left: 5vw;
+
+            >section, >h1, >h2 {
+                padding-right: 2vw;
+            }
+        }
+    }
+    .left, .poppies {
+        display: none;
+    }
+    .year {
+        display: none;
+    }
+
+    nav a {
+        font-size: 1.2em;
+        font-weight: 600 !important;
+    }
+    main {
+        display:block;
+        grid-template-columns: auto;
+    }
+    .teaching, .outreach {
+        display:block;
+        grid-template-columns: auto;
+
+        .years {
+            display: none;
+        }
+
+        .course-links {
+            h3 {
+                font-size: 1.2em;
+            }
+            p, a, td, th, li {
+                font-size: 1.0em;
+                line-height: 1.5em;
+            }
+        }
+    }
+
+    .desktop { display: none !important; }
+    p, a, td, th { 
+        text-align: left;
+        line-height: 1.6em;
+        font-size: 1.1em;
+    } 
+    .details {
+        h3 {
+            font-size: 1.2em;
+        }
+        p, a, td, th, li { 
+            text-align: left;
+            line-height: 1.6em;
+            font-size: 1.1em;
+        } 
+    }
+
+}

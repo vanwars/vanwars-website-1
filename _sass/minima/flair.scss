@@ -1,0 +1,21 @@
+.contact {
+    background-image: url(/assets/images/poppies-bottom-right.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 130px 170px;
+    min-height: 200px;
+}
+
+.poppies {
+    background-image: url('/assets/images/poppies-top-left.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 167px;
+    height: 198px;
+    position: absolute;
+    z-index: 1000;
+    top: 13px;
+    left: -28px;
+    transform: rotate(33deg);
+}

@@ -1,0 +1,17 @@
+_site
+.DS_Store
+*.pyc
+.sass-cache
+.jekyll-metadata
+drafts
+draft
+old
+administrative
+solution
+solutions
+.ipynb_checkpoints
+__pycache__
+Gemfile.lock
+cpd.db
+.vscode
+
