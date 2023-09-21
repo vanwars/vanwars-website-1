@@ -214,7 +214,8 @@
             "years": "2019 - 2021",
             "code": "CS 330",
             "title": "Intro to Human-Computer Interaction",
-            "description": "An exploation of n application of various human-computer interaction methods and considerations",            "sessions": {
+            "description": "The study and practice of making usable, accessible interfaces that meet human needs. For undergraduate and master's students (all majors).",
+            "sessions": {
                 "2020-2021": [
                     {
                         "period": "Winter",

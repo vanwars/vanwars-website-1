@@ -1,7 +1,11 @@
 $orange: #ff7b00;
-$blue: #2978A0;
+$blue: #4f6d7a;
 $bluegreen: #315659;
 $redpurple: #e61438;
+$background: #FFFFF7;
+$border: #e8dab2;
+$eggplant: #754f5b;
+
 
 html {
     scroll-behavior: smooth;
@@ -24,8 +28,6 @@ p, a, td, th, li {
     margin-top: 0;
 }
 
-
-
 .left {
     h1 {
         margin-top: 0px !important;
@@ -39,7 +41,6 @@ p, a, td, th, li {
 
         > section {
             padding: 20px 0 15px 0;
-            // border-bottom: solid 1px #ccc;
         }
     }
 
@@ -101,8 +102,9 @@ p, a, td, th, li {
 // }
 
 main h2 {
-    border-bottom: solid 1px #999;
-    // border-bottom: solid 1px $orange;
+    // border-bottom: solid 1px $eggplant;
+    // border-bottom: solid 1px #444;
+    border-bottom: solid 1px $blue;
 }
 
 header, nav, footer, aside, main {
@@ -218,7 +220,9 @@ main {
     }
     h2 {
         font-size: 1.8em;
-        color: #444;
+        // color: $eggplant;
+        // color: #444;
+        color: $blue;
         font-weight: 500;
         padding-bottom: 3px;
         margin-top: 0px;
@@ -299,7 +303,7 @@ main a:hover {
     }
 
     h3, .years {
-        text-transform: uppercase;
+        // text-transform: uppercase;
         font-weight: 600;
         margin: 0;
         font-size: 1em;
@@ -342,35 +346,42 @@ main a:hover {
         margin: 0;
     }
 
+    a, td, th, p, li, ul  {
+        font-size: 1rem;
+        line-height: 1.4em;
+    }
+
     .details {
         p {
             // padding-left: 4px;
             margin: 0 0 10px 0;
-        }
-
-        a, td, th, p  {
-            font-size: 1rem;
-            line-height: 1.4em;
-        }
+        } 
     }
 
-    .course-links {
-        margin-left: 0px;
-        // border-left: solid 2px #ccc; //$orange;
-        // border-left: solid 4px $redpurple;
+    .courses {
+        padding-left: 5px;
+        margin-left: 8px;
+        // border-left: solid 1px $eggplant;
+        // border-left: solid 3px $border;
+        border-left: solid 1px $blue;
         margin-top: 3px;
 
         h3 {
             padding-left: 4px;
         }
        
-        td:first-child {
-            padding-left: 0px;
+        td:first-child,
+        th:first-child {
             min-width: 105px;
         }
         td, th {
             margin: 0px;
             padding: 0px 10px 0px 0px;
+            padding-left: 0px;
+        }
+        th {
+            font-weight: 500;
+            text-align: left;
         }
     }
 }
