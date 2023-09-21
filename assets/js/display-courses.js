@@ -46,7 +46,7 @@ const renderCourse = (data) => {
         <section class="teaching">
             <section class="details">
                 <h3>
-                    ${data.code}: ${data.title}
+                    ${data.code ? `${data.code}: ${data.title}` : data.title}
                 </h3>
                 <div class="courses">
                     <p>${data.description}</p>

@@ -16,8 +16,9 @@ Prior to joining UNCA, I was an Assistant Professor of Instruction at Northweste
 {% include courses-taught.html %}
 
 
-<h1 id="outreach">Outreach</h1>
-<h2>Adult & Community Education</h2>
+{:#outreach}
+# Outreach
+## Adult & Community Education
 <section class="outreach">
 <section class="details">
     <h3>
@@ -48,7 +49,7 @@ Prior to joining UNCA, I was an Assistant Professor of Instruction at Northweste
 <p class="years">2021 - </p>
 </section>
 
-<h2>High School</h2>
+## High School
 <section class="outreach">
 <section class="details">
     <h3>
@@ -62,23 +63,7 @@ Prior to joining UNCA, I was an Assistant Professor of Instruction at Northweste
         programming.
     </p>
 </section>
-
 <p class="years">2014 - 2017</p>
-</section>
-<section class="outreach">
-<section class="details">
-    <h3>
-        Data, Design, & Social Change (High School Sociology Course)
-    </h3>
-    <p>
-        During graduate school, I also taught a tenth grade social studies
-        course, with Tapan Parikh and Sepehr Vakil, to help students learn
-        about their schools and communities using a variety of
-        qualitative and quantitative data analysis methods.
-    </p>
-</section>
-
-<p class="years">2014</p>
 </section>
 
 # Projects

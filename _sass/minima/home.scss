@@ -1,4 +1,5 @@
 $orange: #ff7b00;
+$linkColor: #205c76;
 $blue: #4f6d7a;
 $bluegreen: #315659;
 $redpurple: #e61438;
@@ -15,7 +16,7 @@ body {
    margin: 0;
    font-family: 'Open Sans', sans-serif;
    font-size: 1.1em;
-   color: #444;
+   color: #222;
    background: #FFFFF7;
 }
 body, body * {
@@ -52,7 +53,7 @@ p, a, td, th, li {
 
     .date {
         font-size: 0.8em;
-        color: #444;
+        color: #222;
         margin: 5px 0;
     }
 
@@ -148,7 +149,7 @@ nav {
             padding: 5px;
             a, a:visited {
                 padding: 8px;
-                color: #444;
+                color: #222;
                 font-weight: 500;
                 text-decoration: none;
                 outline: none;
@@ -247,7 +248,7 @@ h1 {
 
 main a, main a:visited, main a:active, main a:link {
     text-decoration: underline;
-    color: $blue;
+    color: $linkColor;
 }
 main a:hover {
     text-decoration: none;

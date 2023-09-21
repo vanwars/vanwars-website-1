@@ -5,7 +5,7 @@
             "years": "2023 -",
             "code": "CSCI 338",
             "title": "Software Engineering",
-            "description": "An exploration of the processes and tools that work to create scalable and maintainable software.",
+            "description": "An exploration of the processes and tools that work to create scalable and maintainable software. For CS majors and minors.",
             "sessions": {
                 "2023-2024": [
                     {
@@ -20,7 +20,7 @@
             "years": "2023 -",
             "code": "CSCI 480",
             "title": "Capstone I",
-            "description": "YYY (CS Majors)",
+            "description": "Part 1 of a comprehensive, year-long software or research project of students' own choosing. Each student designs and develops their own software project idea, with the guidance of a faculty member. For CS majors.",
             "sessions": {
                 "2022-2023": [
                     {
@@ -34,7 +34,7 @@
             "years": "2023 -",
             "code": "CSCI 344",
             "title": "Advanced Web Development",
-            "description": "YYY (CS Majors)",
+            "description": "Introduction to the methods, tools, and technologies for doing \"full stack\" web development, including HTML, CSS, and Javascript, web architecture, and web frameworks (server-side and client-side). For CS Majors.",
             "sessions": {
                 "2022-2023": [
                     {
@@ -48,7 +48,7 @@
             "years": "2022 -",
             "code": "CSCI 185",
             "title": "Intro to Programming for the Web",
-            "description": "YYY (all majors)",
+            "description": "Introduction to web design and basic programming using HTML, CSS, JavaScript, and REST APIs. For undergraduate students (all majors).",
             "sessions": {
                 "2023-2024": [
                     {
@@ -85,7 +85,7 @@
             "years": "2018 - 2022",
             "code": "CS 110",
             "title": "Intro to Programming with Python",
-            "description": "Introduction to computer programming for non-majors, with a focus on interacting with data and multimedia.",
+            "description": "Introduction to the fundamental constructs of computer programming (using Python). Students author animations, games, and data-driven interfaces while exploring various computational principles. For undergraduates (all majors).",
             "sessions": {
                 "2021-2022": [
                     {
@@ -129,7 +129,7 @@
             "years": "2018 - 2022",
             "code": "CS 130",
             "title": "Intro to Programming for the Web",
-            "description": "An introduction to web design and web development for undergraduate students (all majors)",
+            "description": "Introduction to web design and web development using HTML, CSS, JavaScript, and REST APIs. For undergraduate students (all majors).",
             "sessions": {
                 "2021-2022": [
                     {
@@ -162,7 +162,7 @@
             "years": "2020 - 2022",
             "code": "CS 396",
             "title": "Intro to Full Stack Web Development",
-            "description": "A exploration of the methods and tools for doing \"full stack\" web development for CS undergraduate and master's students",
+            "description": "Introduction to the methods, tools, and technologies for doing \"full stack\" web development, including HTML, CSS, and Javascript, web architecture, and web frameworks (server-side and client-side). For CS undergraduate and master's students.",
             "sessions": {
                 "2021-2022": [
                     
@@ -243,7 +243,7 @@
             "years": "2016 - 2018",
             "code": "MMART 162",
             "title": "Intro to Computer Programming with JavaScript",
-            "description": "TBD",
+            "description": "Explores front-end, interactive programming concepts using JavaScript. This including working with HTML5 browser APIs (audio, canvas), working with front-end frameworks (e.g., p5.js, Angular, React), and working with REST APIs from third-party providers.",
             "sessions": {
                 "2017-2018": [
                     {
@@ -289,6 +289,21 @@
                     {
                         "period": "Summer",
                         "notes": " (Lecturer)"
+                    }
+                ]
+            }
+        }
+    ],
+    "REALM Charter High School": [
+        {
+            "years": "2013 - 2014",
+            "title": "Data, Design, and Social Change",
+            "description": "High School Sociology course designed to help tenth grade students learn about their schools and communities using a variety of qualitative and quantitative data analysis methods and design methods.",
+            "sessions": {
+                "2013-2014": [
+                    {
+                        "period": "Spring",
+                        "notes": "(with Sepehr Vakil and Tapan Parikh)"
                     }
                 ]
             }
