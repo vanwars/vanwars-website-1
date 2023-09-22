@@ -1,0 +1,50 @@
+aside.side-menu {
+    top: 48px;
+    position: sticky;
+    height: calc(100vh - 44px);
+    left: 0px;
+    overflow-y: auto;
+    padding-bottom: 40px;
+    font-size: 1rem;
+
+    h3 {
+        margin-top: 0px;
+    }
+    a, a.link, a.active, a.visited, a:hover {
+        text-decoration: none;
+        border-left: solid 2px transparent;
+        border-bottom: solid 2px transparent;
+        font-size: 1.05em;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    
+    a.active, a:hover {
+        border-left: solid 2px $redpurple;
+        // border-bottom: solid 2px $redpurple;
+        color: $orange;
+        font-weight: 600;
+    }
+
+    ol {
+        padding: 0px;
+        margin: 0px;
+        a {
+            padding: 0px 5px;
+        }
+
+        ol a {
+            padding-left: 35px;
+            margin: 0px;
+        }
+    }
+
+    li {
+        margin-top: 0px;
+        list-style-type: none;
+        line-height: 1.2em;
+        display: flex;
+        flex-direction: column;
+    }
+}

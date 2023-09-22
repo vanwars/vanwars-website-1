@@ -1,5 +1,4 @@
 title: "Sarah Van Wart"
-subtitle: "Software Engineering"
 email: svanwart@unca.edu
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -23,22 +22,6 @@ exclude:
   - course-files/practice_exams/drafts
   - course-files/projects/drafts
 collections:
-  activities:
-    output: true
-    sort_by: ordering
-    permalink: /activities/:name
-  assignments:
-    output: true
-    sort_by: ordering
-    permalink: /assignments/:name
-  lectures:
-    output: true
-    sort_by: lecture_date
-    permalink: /lectures/:name
-  quizzes:
-    output: true
-    sort_by: lecture_date
-    permalink: /assignments/:name
   resources:
     output: true
     sort_by: lecture_date
@@ -49,7 +32,3 @@ collections_dir: pages
 sass:
   style: compact
   sass_dir: _sass
-
-deadline_reminder: true
-
-

@@ -72,7 +72,7 @@
             "years": "2022 -",
             "code": "CSCI 333",
             "title": "Algorithms",
-            "description": "YYY (CS Majors)",
+            "description": "The study of data structures, some of the efficient algorithms that use them, and how to represent and implement them in Java. For CS majors and minors.",
             "sessions": {
                 "2022-2023": [
                     {"period": "Fall"}
@@ -298,7 +298,7 @@
         {
             "years": "2013 - 2014",
             "title": "Data, Design, and Social Change",
-            "description": "High School Sociology course designed to help tenth grade students learn about their schools and communities using a variety of qualitative and quantitative data analysis methods and design methods.",
+            "description": "High School Sociology course designed to help tenth grade students learn about their communities using design and data analysis methods (qualitative and quantitative).",
             "sessions": {
                 "2013-2014": [
                     {

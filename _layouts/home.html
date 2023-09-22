@@ -2,49 +2,27 @@
 <html lang="en" dir="ltr">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sarah Van Wart</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-    <link
-        href="https://fonts.googleapis.com/css?family=Cedarville+Cursive|Delius|Itim|Mali|Sue+Ellen+Francisco|Open+Sans:400,600,700|Open+Sans+Condensed:300|Amatic+SC|Roboto|Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400|Source+Sans+Pro:wght@300;400;600"
-        rel="stylesheet">
-    <link rel="stylesheet" href="/assets/main.css">
-    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.png">
-
+    {% include head.html %}
 </head>
 
-<body id="home">
-    <!-- <div class="poppy desktop"></div> -->
-    <div class="poppies"></div>
-    <!-- banner -->
-    <header>
-        <h1>Sarah Van Wart</h1>
-        <a class="menu-toggle mobile" href="#" aria-label="button to toggle navigation menu">
-            <i class="fas fa-bars"></i>
-        </a>
-    </header>
+<body>
+
+    <!-- header -->
+    {% include page-header.html heading="Sarah Van Wart" %}
 
     <!-- navigation -->
-    <nav>
-        <ul>
-            <li class="home"><a href="#home">Home</a></li>
-            <li><a href="#teaching">Teaching</a></li>
-            <li class="desktop"><a href="#outreach">Outreach</a></li>
-            <li><a href="#publications">Scholarship</a></li>
-            <li class="desktop"><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+    {% include navigation.html %}
 
     <!-- main panel -->
-    <main>
+    <main class="two-column">
         <div class="left">
+            <img src="/assets/images/students.png" alt="High school students working on a website together." />
+
             {% include news.html %}
         </div>
 
         <div class="right">
             {{ content }}
-
         </div>
 
     </main>
