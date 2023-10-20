@@ -15,73 +15,18 @@ Prior to joining UNCA, I was an Assistant Professor of Instruction at Northweste
 
 {% include courses-taught.html %}
 
+{:#publications}
+# Scholarship
+{% include pubs.html %}
 
-<h1 id="publications">Scholarship</h1>
+
+
+
 <section class="publications">
-<h2>Refereed Journals & Conference Proceedings</h2>
-<ul>
-    <li>
-        Van Wart, S. J., Lanouette, K., & Parikh, T. S. (2020).
-        <a href="https://doi.org/10.1080/10508406.2019.1693378">Scripts and counterscripts in
-            community-based data science: Participatory digital mapping and the pursuit of a third
-            space</a>.
-        <span class="venue">Journal of the Learning Sciences.</span>
-    </li>
-    <li>
-        Lanouette, K., & Van Wart, S. J. (2019). <a
-            href="https://ris.utwente.nl/ws/portalfiles/portal/129957345/CSCL_2019_Volume_2.pdf#page=39">Moving
-            Between Experience, Data and Explanation: The Role of Participatory GIS Maps in Elementary
-            Science Sensemaking</a>.
-        In <span class="venue">Computer Supported Collaborative Learning (CSCL)</span> (pp. 553–556).
-        Lyon.
-    </li>
-    <li>
-        Lanouette, K., Van Wart, S., & Parikh, T. S. (2016). Supporting elementary students’ learning
-        about ecological systems through data modeling and interactive mapping in local contexts.
-        Proceedings of the <span class="venue">International Conference of the Learning Sciences
-            (ICLS)</span> (Vol. 1, pp. 570–577). Singapore.
-    </li>
-    <li>
-        Van Wart, S., Vakil, S., & Parikh, T. S. (2014). Apps for social justice: Motivating computer
-        science learning with design and real-world problem solving.
-        Proceedings of the 2014 Conference on <span class="venue">Innovation & Technology in Computer
-            Science Education (ITiCSE)</span>, 123–128. https://doi.org/10.1145/2591708.2591751
-    </li>
-    <li>
-        Van Wart, S., Tsai, K. J., & Parikh, T. (2010). Local Ground: A Paper-Based Toolkit for
-        Documenting Local Geo-spatial Knowledge.
-        Proceedings of the First ACM Symposium on <span class="venue">Computing for Development
-            (ACMDEV)</span>, 1. https://doi.org/10.1145/1926180.1926194
-    </li>
-</ul>
 
 
-<h2 style="margin-top:30px;">Refereed Abstracts, Posters and Workshop Papers</h2>
+<h2 style="margin-top:30px;">[Hard Coded] Refereed Abstracts, Posters and Workshop Papers</h2>
 <ul>
-    <li>melo, natalie araujo; Reith, Ally; Nober, Ben; Van Wart, Sarah; & Vakil, Sepehr (2022).
-        “Google got yo’ life”: Opening Portals for Ethical Sensemaking with Relational Design.
-        Workshop paper presented at the Annual Meeting of the
-        <span class="venue">American Educational Research Association (AERA)</span>, San Diego, CA.
-    </li>
-    <li>
-        (in alphabetical order) araujo melo, natalie; Bhadriraju, Shreya;
-        Elliot, Shanté; Logan, Charles; Mehta, Bijal; Reith, Ally;
-        Vakil, Sepehr; Van Wart, Sarah; Voelkel, Greg; Watson Jr., Cortez;
-        Wetoska, Nina; Williams, Titobioluwa (2021).
-        Bringing Politics and Power into Computing Education: Young People’s Race, Power, and Technology
-        Project.
-        Workshop paper presented at the Connected Learning Summit, Online, 7-30 July 2021.
-    </li>
-    <li>
-        Irgens, G. A., Simon, K., Wise, A., Philip, T., Olivares, M. C., Van Wart, S., … Kahn, J.
-        (2020).
-        <a href="https://doi.dx.org/10.22318/icls2020.406">Data Literacies and Social Justice: Exploring
-            Critical Data Literacies through Sociocultural Perspectives.</a>
-        In M. Gresalfi & I. Horn (Eds.), The Interdisciplinarity of the Learning Sciences,
-        Proceedings of the 14th International Conference of the Learning Sciences,
-        Online, 21–23 July 2020 (pp. 406–413). Nashville, TN, USA:
-        <span class="venue">International Society of the Learning Sciences</span>.
-    </li>
     <li>
         Matuk, C., Yoon, S., Polman, J., Barton, J., Bulalacao, N. M., Cafaro, F., … Woods, P. (2020).
         <a href="https://doi.dx.org/10.22318/icls2020.343">Data Literacy for Social Justice</a>. In M.

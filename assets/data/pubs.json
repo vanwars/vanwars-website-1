@@ -1,0 +1,103 @@
+[{
+    "title" : "Scripts and counterscripts in community-based data science: Participatory digital mapping and the pursuit of a third space",
+    "authors": "Van Wart, S. J., Lanouette, K., & Parikh, T. S.",
+    "date": "2020",
+    "type": "journal",
+    "venue": "Journal of the Learning Sciences",
+    "doi": "https://doi.org/10.1080/10508406.2019.1693378"
+}, {
+    "title" : "Moving Between Experience, Data and Explanation: The Role of Participatory GIS Maps in Elementary Science Sensemaking",
+    "authors": "Lanouette, K., & Van Wart, S. J.",
+    "date": "2019",
+    "type": "conference",
+    "venue": "Proceedings of Computer Supported Collaborative Learning (CSCL)",
+    "doi": "https://ris.utwente.nl/ws/portalfiles/portal/129957345/CSCL_2019_Volume_2.pdf#page=39",
+    "pages": "pp. 553–556",
+    "location": "Lyon"
+}, {
+    "title" : "Supporting elementary students’ learning about ecological systems through data modeling and interactive mapping in local contexts",
+    "authors": "Lanouette, K., Van Wart, S., & Parikh, T. S.",
+    "date": "2016",
+    "type": "conference",
+    "venue": "Proceedings of the International Conference of the Learning Sciences (ICLS)",
+    "pages": "Vol. 1, pp. 570–577",
+    "location": "Singapore"
+}, {
+    "title" : "Apps for social justice: Motivating computer science learning with design and real-world problem solving",
+    "authors": "Van Wart, S., Vakil, S., & Parikh, T. S.",
+    "date": "2014",
+    "type": "conference",
+    "venue": "Proceedings of the Conference on Innovation & Technology in Computer Science Education (ITiCSE)",
+    "pages": "123–128",
+    "location": "Uppsala",
+    "doi": "https://dl.acm.org/doi/10.1145/2591708.2591751"
+}, {
+    "title" : "“Google got yo’ life”: Opening Portals for Ethical Sensemaking with Relational Design",
+    "authors": "melo, natalie araujo; Reith, Ally; Nober, Ben; Van Wart, Sarah; & Vakil, Sepehr",
+    "date": "2022",
+    "type": "workshop",
+    "venue": "Workshop paper presented at the Annual Meeting of the American Educational Research Association (AERA)",
+    "location": "San Diego, CA"
+}, {
+    "title" : "Bringing Politics and Power into Computing Education: Young People’s Race, Power, and Technology Project",
+    "authors": "(in alphabetical order) araujo melo, natalie; Bhadriraju, Shreya; Elliot, Shanté; Logan, Charles; Mehta, Bijal; Reith, Ally; Vakil, Sepehr; Van Wart, Sarah; Voelkel, Greg; Watson Jr., Cortez; Wetoska, Nina; Williams, Titobioluwa",
+    "date": "7-30 July 2021",
+    "type": "workshop",
+    "venue": "Workshop paper presented at the Connected Learning Summit",
+    "location": "Online"
+}, {
+    "title" : "Data Literacies and Social Justice: Exploring Critical Data Literacies through Sociocultural Perspectives",
+    "authors": "Irgens, G. A., Simon, K., Wise, A., Philip, T., Olivares, M. C., Van Wart, S., … Kahn, J.",
+    "date": "21–23 July, 2020",
+    "type": "workshop",
+    "venue": "Workshop paper presented during the 14th International Conference of the Learning Sciences",
+    "location": "Nashville, TN",
+    "pages": "Vol. 1, pp. 406–413",
+    "doi": "https://doi.dx.org/10.22318/icls2020.406"
+}, {
+    "title" : "Data Literacy for Social Justice",
+    "authors": "Matuk, C., Yoon, S., Polman, J., Barton, J., Bulalacao, N. M., Cafaro, F., … Woods, P.",
+    "date": "21–23 July, 2020",
+    "type": "workshop",
+    "venue": "Workshop paper presented during the 14th International Conference of the Learning Sciences",
+    "location": "Nashville, TN",
+    "pages": "Vol. 1, pp. 343–349",
+    "doi": "https://doi.dx.org/10.22318/icls2020.343"
+}, {
+    "title" : "AAA",
+    "authors": "BBB",
+    "date": "CCC",
+    "type": "workshop",
+    "venue": "DDD",
+    "location": " EEE",
+    "pages": "FFF",
+    "doi": "GGG"
+}, {
+    "title" : "AAA",
+    "authors": "BBB",
+    "date": "CCC",
+    "type": "workshop",
+    "venue": "DDD",
+    "location": " EEE",
+    "pages": "FFF",
+    "doi": "GGG"
+}, {
+    "title" : "AAA",
+    "authors": "BBB",
+    "date": "CCC",
+    "type": "workshop",
+    "venue": "DDD",
+    "location": " EEE",
+    "pages": "FFF",
+    "doi": "GGG"
+}, {
+    "title" : "AAA",
+    "authors": "BBB",
+    "date": "CCC",
+    "type": "workshop",
+    "venue": "DDD",
+    "location": " EEE",
+    "pages": "FFF",
+    "doi": "GGG"
+}]
+

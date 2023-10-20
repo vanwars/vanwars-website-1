@@ -41,6 +41,8 @@ While a minority of AI researchers and techies worry that AI will one day decide
 ### The Turing Test
 
 ### More Reading
+* <a href="https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/" target="_blank">https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/</a>. Graduate Student Publication at Harvard for Science and the News. 8/28/2017. Rockwell Anyoha.
+* <a href="https://verloop.io/blog/the-timeline-of-artificial-intelligence-from-the-1940s/" target="_blank">A Timeline of AI from the 1940s</a>
 
 ## 3. How do AIs work?
 * Goal is established a priori, and then the algorithms are tuned to achieve the goal.

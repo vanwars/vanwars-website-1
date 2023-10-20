@@ -34,9 +34,17 @@ aside.side-menu {
             padding: 0px 5px;
         }
 
-        ol a {
-            padding-left: 35px;
-            margin: 0px;
+        ol {
+            a {
+                padding-left: 35px;
+                margin: 0px;
+            }
+
+            ol a {
+                padding-left: 55px;
+                margin: 0px;
+            }
+            
         }
     }
 
