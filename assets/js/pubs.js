@@ -5,7 +5,18 @@ const getTitle = (item) => {
 };
 
 const getVenue = (item) => {
-    let html = `<span class="venue">${item.venue}</span>`;
+    let html = `<em>${item.venue}</em>`;
+    if (item.volume && item.issue) {
+        html += `, ${item.volume}(${item.issue}), ${item.pages}`;
+    } else if (item.pages) {
+        html += ` (${item.pages})`;
+    }
+    html += ". ";
+    return html;
+};
+
+const getBook = (item) => {
+    let html = `<em>${item.editors}</em> (Eds.), ${item.book}`;
     if (item.pages) {
         html += ` (${item.pages})`;
     }
@@ -13,22 +24,52 @@ const getVenue = (item) => {
     return html;
 };
 
-const getConferenceInfo = (item) => {
-    let html = "";
-    if (item.location) {
-        html += `${item.location}.`;
-    }
-    return html;
+const getLocation = (item) => {
+    return item.location ? item.location + "." : "";
 };
 
 const jsonToHTML = (item) => {
+    switch (item.type) {
+        case "symposium":
+            return jsonToSymposium(item);
+        case "book chapter":
+            return jsonToHTMLBookChapter(item);
+    }
+    return jsonToHTMLGeneric(item);
+};
+
+const jsonToHTMLGeneric = (item) => {
     return `
         <li>
             ${item.authors} 
             (${item.date}). 
             ${getTitle(item)}. 
             ${getVenue(item)} 
-            ${getConferenceInfo(item)}
+            ${getLocation(item)}
+        </li>
+    `;
+};
+
+const jsonToSymposium = (item) => {
+    return `
+        <li>
+            ${item.authors} 
+            (${item.date}). 
+            ${getTitle(item)}. In
+            ${item.chairs}, ${item.symposium_title} [Symposium].
+            ${getVenue(item)} 
+            ${getLocation(item)}
+        </li>
+    `;
+};
+
+const jsonToHTMLBookChapter = (item) => {
+    return `
+        <li>
+            ${item.authors} 
+            (${item.date}). 
+            ${getTitle(item)}. In
+            ${getBook(item)} 
         </li>
     `;
 };
@@ -43,8 +84,12 @@ const displayPubs = async () => {
     const parent = document.querySelector(".publications");
     const groupings = {
         "Refereed Journals & Conference Proceedings": ["journal", "conference"],
-        "Refereed Abstracts, Posters and Workshop Papers": ["workshop"],
-        "Other Publications": ["book", "magazine"],
+        "Refereed Abstracts, Posters and Workshop Papers": [
+            "workshop",
+            "symposium",
+            "poster",
+        ],
+        "Other Publications": ["book chapter", "magazine"],
         "Doctoral Dissertation": ["dissertation"],
     };
 
@@ -53,12 +98,8 @@ const displayPubs = async () => {
         parent.insertAdjacentHTML("beforeend", `<h2>${key}</h2>`);
         const types = groupings[key];
         const pubs = data.filter((pub) => types.includes(pub.type));
-        for (const pub of pubs) {
-            parent.insertAdjacentHTML(
-                "beforeend",
-                `<ul>${jsonToHTML(pub)}</ul>`
-            );
-        }
+        const html = pubs.map(jsonToHTML).join("\n");
+        parent.insertAdjacentHTML("beforeend", `<ul>${html}</ul>`);
     }
 };
 

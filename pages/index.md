@@ -21,37 +21,6 @@ Prior to joining UNCA, I was an Assistant Professor of Instruction at Northweste
 
 
 
-
-<section class="publications">
-
-
-<h2 style="margin-top:30px;">Other Publications</h2>
-<ul>
-    <li>
-        Soep, E.; Lee, C.; Van Wart, S. J., Parikh, T. S. (2020). Code for What? In
-        <a
-            href="https://books.google.com/books/about/Popular_Culture_and_the_Civic_Imaginatio.html?id=-qjDDwAAQBAJ">Popular
-            Culture and the Civic Imagination: Case Studies of Creative Social Change.</a> NYU Press.
-    </li>
-    <li>
-        K Koy, K; Van Wart, SJ; Galey, B; O'Connor, M; Kelly, M 2011).
-        <a href="https://www.cabdirect.org/cabdirect/abstract/20113205543">Cal-Adapt: Bringing global
-            climate change data to a local application</a>.
-        PE&RS, Photogrammetric Engineering & Remote Sensing 77 (6), 546-550.
-    </li>
-</ul>
-<h2 style="margin-top:30px;">Doctoral Dissertation</h2>
-<ul>
-    <li>
-        Van Wart, S. J. (2019).
-        <a href="https://escholarship.org/content/qt58x6p9km/qt58x6p9km.pdf">In search of a "fair
-            explanation": Helping young people to consider the possibilities, limitations,
-            and risks of computer- and data-mediated systems</a>.
-        <span class="venue">Doctoral Dissertation.</span>
-    </li>
-</ul>
-</section>
-
 <h1 id="contact">Contact</h1>
 <section class="contact">
 <p>

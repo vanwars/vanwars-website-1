@@ -1,13 +1,22 @@
-[{
+[
+{
+    "authors": "Chávez, V. & Van Wart, S.",
+    "date": "2023, June 10-15",
+    "title": "“Accessibility is important to everybody”: Unpacking Students’ Understanding about Accessibility",
+    "venue": "Proceedings of the International Society of the Learning Sciences (ISLS)",
+    "location": "Montréal, CA",
+    "type": "conference",
+    "doi": "https://repository.isls.org/handle/1/9951"
+}, {
     "title" : "Scripts and counterscripts in community-based data science: Participatory digital mapping and the pursuit of a third space",
-    "authors": "Van Wart, S. J., Lanouette, K., & Parikh, T. S.",
+    "authors": "Van Wart, S.J., Lanouette, K., Parikh, T. S.",
     "date": "2020",
     "type": "journal",
     "venue": "Journal of the Learning Sciences",
     "doi": "https://doi.org/10.1080/10508406.2019.1693378"
 }, {
     "title" : "Moving Between Experience, Data and Explanation: The Role of Participatory GIS Maps in Elementary Science Sensemaking",
-    "authors": "Lanouette, K., & Van Wart, S. J.",
+    "authors": "Lanouette, K., Van Wart, S.J.",
     "date": "2019",
     "type": "conference",
     "venue": "Proceedings of Computer Supported Collaborative Learning (CSCL)",
@@ -16,7 +25,7 @@
     "location": "Lyon, FR"
 }, {
     "title" : "Supporting elementary students’ learning about ecological systems through data modeling and interactive mapping in local contexts",
-    "authors": "Lanouette, K., Van Wart, S., & Parikh, T. S.",
+    "authors": "Lanouette, K., Van Wart, S.J., & Parikh, T. S.",
     "date": "2016",
     "type": "conference",
     "venue": "Proceedings of the International Conference of the Learning Sciences (ICLS)",
@@ -24,7 +33,7 @@
     "location": "Singapore"
 }, {
     "title" : "Apps for social justice: Motivating computer science learning with design and real-world problem solving",
-    "authors": "Van Wart, S., Vakil, S., & Parikh, T. S.",
+    "authors": "Van Wart, S.J., Vakil, S., & Parikh, T. S.",
     "date": "2014",
     "type": "conference",
     "venue": "Proceedings of the Conference on Innovation & Technology in Computer Science Education (ITiCSE)",
@@ -33,30 +42,39 @@
     "doi": "https://dl.acm.org/doi/10.1145/2591708.2591751"
 }, {
     "title" : "Local Ground: A Paper-Based Toolkit for Documenting Local Geo-spatial Knowledge",
-    "authors": "Van Wart, S., Tsai, K. J., & Parikh, T.S.",
+    "authors": "Van Wart, S.J., Tsai, K. J., & Parikh, T.S.",
     "date": "2010",
     "type": "conference",
     "venue": "Proceedings of the First ACM Symposium on Computing for Development (ACMDEV)",
     "pages": "123–128",
-    "location": "Uppsala, SE",
+    "location": "Egham, UK",
     "doi": "https://doi.org/10.1145/1926180.1926194"
 }, {
+    "title" : "Developing Artificial Intelligence Literacy by Examining the Politics of Internet Platforms",
+    "chairs": "Zheng et al. (chairs)",
+    "symposium_title": "Artificial Intelligence in Education: Potentials and Challenges in Ethics, Data Privacy, and Pedagogy",
+    "authors": "Van Wart, S.J., Vakil, S., & araujo melo, n.",
+    "date": "2023",
+    "type": "symposium",
+    "venue": "Annual Meeting of the American Educational Research Association (AERA)",
+    "location": "Chicago, IL"
+}, {
     "title" : "“Google got yo’ life”: Opening Portals for Ethical Sensemaking with Relational Design",
-    "authors": "melo, natalie araujo; Reith, Ally; Nober, Ben; Van Wart, Sarah; & Vakil, Sepehr",
+    "authors": "araujo melo, n., Reith, A., Nober, B., Van Wart, S., & Vakil, S.",
     "date": "2022",
     "type": "workshop",
     "venue": "Workshop paper presented at the Annual Meeting of the American Educational Research Association (AERA)",
     "location": "San Diego, CA"
 }, {
     "title" : "Bringing Politics and Power into Computing Education: Young People’s Race, Power, and Technology Project",
-    "authors": "(in alphabetical order) araujo melo, natalie; Bhadriraju, Shreya; Elliot, Shanté; Logan, Charles; Mehta, Bijal; Reith, Ally; Vakil, Sepehr; Van Wart, Sarah; Voelkel, Greg; Watson Jr., Cortez; Wetoska, Nina; Williams, Titobioluwa",
+    "authors": "(in alphabetical order) araujo melo, n., Bhadriraju, S., Elliot, S., Logan, C., Mehta, B., Reith, A., Vakil, S., Van Wart, S., Voelkel, G., Watson Jr., C., Wetoska, N., & Williams, T.",
     "date": "7-30 July 2021",
     "type": "workshop",
     "venue": "Workshop paper presented at the Connected Learning Summit",
     "location": "Online"
 }, {
     "title" : "Data Literacies and Social Justice: Exploring Critical Data Literacies through Sociocultural Perspectives",
-    "authors": "Irgens, G. A., Simon, K., Wise, A., Philip, T., Olivares, M. C., Van Wart, S., … Kahn, J.",
+    "authors": "Irgens, G. A., Simon, K., Wise, A., Philip, T., Olivares, M. C., Van Wart, S.J., …  & Kahn, J.",
     "date": "21–23 July, 2020",
     "type": "workshop",
     "venue": "Workshop paper presented during the 14th International Conference of the Learning Sciences",
@@ -65,7 +83,7 @@
     "doi": "https://doi.dx.org/10.22318/icls2020.406"
 }, {
     "title" : "Data Literacy for Social Justice",
-    "authors": "Matuk, C., Yoon, S., Polman, J., Barton, J., Bulalacao, N. M., Cafaro, F., … Woods, P.",
+    "authors": "Matuk, C., Yoon, S., Polman, J., Barton, J., Bulalacao, N. M., Cafaro, F.,  & … Woods, P.",
     "date": "21–23 July, 2020",
     "type": "workshop",
     "venue": "Workshop paper presented during the 14th International Conference of the Learning Sciences",
@@ -74,14 +92,14 @@
     "doi": "https://doi.dx.org/10.22318/icls2020.343"
 }, {
     "title" : "Local Ground: Supporting local, data-driven inquiry with youth",
-    "authors": "Van Wart, S., Lanouette, K., & Parikh, T",
+    "authors": "Van Wart, S.J., Lanouette, K., & Parikh, T",
     "date": "2016",
     "type": "workshop",
     "venue": "Poster Session Presented at the Annual Meeting of the American Educational Research Association (AERA)",
     "location": " Washington, D.C."
 }, {
     "title" : "Computer science meets social studies: Embedding CS in the study of locally grounded civic issues",
-    "authors": "Van Wart, S. J.",
+    "authors": "Van Wart, S.J.",
     "date": "2015",
     "type": "workshop",
     "venue": "Proceedings of the Eleventh Annual International Conference on International Computing Education Research (ICER)",
@@ -90,7 +108,7 @@
     "doi": "https://dl.acm.org/doi/10.1145/2787622.2787751"
 }, {
     "title" : "Local Ground: A Toolkit Supporting Metarepresentational Competence in Data Science.",
-    "authors": "Van Wart, S. J., & Parikh, T. S.",
+    "authors": "Van Wart, S.J. & Parikh, T. S.",
     "date": "2014",
     "type": "poster",
     "venue": "Poster at the International Conference of the Learning Sciences (ICLS)",
@@ -98,7 +116,7 @@
     "pages": "1589–1590"
 }, {
     "title" : "Increasing Youth and Community Agency in GIS",
-    "authors": "Van Wart, S., & Parikh, T. S.",
+    "authors": "Van Wart, S.J. & Parikh, T. S.",
     "date": "2013",
     "type": "workshop",
     "venue": "Paper Presented at the Geographic Human-Computer Interaction (GeoHCI) Workshop at SIGCHI",
@@ -106,23 +124,24 @@
     "pages": "1–3",
     "doi": "https://www-users.cs.umn.edu/~bhecht/geohci2013ps/GeoHCI2013_Proceedings.pdf"
 }, {
-    "title" : "??",
-    "authors": "??",
-    "date": "??",
-    "type": "book",
-    "venue": "??",
-    "location": "??",
-    "pages": "??",
-    "doi": "??"
+    "authors" : "Soep, E., Lee, C., Van Wart, S.J., Parikh, T. S.",
+    "title": "Code for What?",
+    "editors": "Jenkins, H., Peters-Lazaro, G., & Shresthova S.",
+    "date": "2020",
+    "type": "book chapter",
+    "book": "Popular Culture and the Civic Imagination: Case Studies of Creative Social Change",
+    "published": "NYU Press",
+    "pages": "89-99",
+    "doi": "https://nyupress.org/9781479869503/popular-culture-and-the-civic-imagination/"
 }, {
-    "title" : "??",
-    "authors": "??",
-    "date": "??",
+    "title" : "Cal-Adapt: Bringing global climate change data to a local application",
+    "authors": "Koy, K., Van Wart, S.J., Galey, B., O'Connor, M., & Kelly, M.",
+    "date": "March 2011",
     "type": "magazine",
-    "venue": "??",
-    "location": "??",
-    "pages": "??",
-    "doi": "??"
+    "venue": "PE&RS, Photogrammetric Engineering & Remote Sensing",
+    "volume": "77",
+    "issue": "6",
+    "pages": "546-550"
 }, {
     "title" : "In search of a \"fair explanation\": Helping young people to consider the possibilities, limitations, and risks of computer- and data-mediated systems",
     "authors": "Van Wart, S.J.",
