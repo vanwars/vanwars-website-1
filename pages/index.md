@@ -25,43 +25,6 @@ Prior to joining UNCA, I was an Assistant Professor of Instruction at Northweste
 <section class="publications">
 
 
-<h2 style="margin-top:30px;">[Hard Coded] Refereed Abstracts, Posters and Workshop Papers</h2>
-<ul>
-    <li>
-        Matuk, C., Yoon, S., Polman, J., Barton, J., Bulalacao, N. M., Cafaro, F., … Woods, P. (2020).
-        <a href="https://doi.dx.org/10.22318/icls2020.343">Data Literacy for Social Justice</a>. In M.
-        Gresalfi & I. Horn (Eds.), The Interdisciplinarity of the Learning Sciences,
-        Proceedings of the 14th International Conference of the Learning Sciences,
-        Online, 21–23 July 2020 (Vol. 1, pp. 343–349). Nashville, TN, USA:
-        <span class="venue">International Society of the Learning Sciences</span>.
-    </li>
-    <li>
-        Van Wart, S., Lanouette, K., & Parikh, T. (2016). Local Ground: Supporting local, data-driven
-        inquiry with youth.
-        Poster Session Presented at the Annual Meeting of the <span class="venue">American Educational
-            Research Association (AERA)</span>, Washington, DC.
-    </li>
-    <li>
-        Van Wart, S. J. (2015). Computer science meets social studies: Embedding CS in the study of
-        locally grounded civic issues.
-        Proceedings of the Eleventh Annual International Conference on <span class="venue">International
-            Computing Education Research (ICER)</span>, 281–282.
-    </li>
-    <li>
-        Van Wart, S. J., & Parikh, T. S. (2014). Local Ground: A Toolkit Supporting Metarepresentational
-        Competence in Data Science.
-        In <span class="venue">International Conference of the Learning Sciences (ICLS)</span> (pp.
-        1589–1590). Boulder, Co.
-    </li>
-    <li>
-        Van Wart, S., & Parikh, T. S. (2013). <a
-            href="https://www-users.cs.umn.edu/~bhecht/geohci2013ps/GeoHCI2013_Proceedings.pdf">Increasing
-            Youth and Community Agency in GIS</a>.
-        Paper Presented at the <span class="venue">Geographic Human-Computer Interaction (GeoHCI)
-            Workshop at SIGCHI</span>, 1–3.
-    </li>
-</ul>
-
 <h2 style="margin-top:30px;">Other Publications</h2>
 <ul>
     <li>

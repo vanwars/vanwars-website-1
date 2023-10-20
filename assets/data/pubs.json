@@ -13,7 +13,7 @@
     "venue": "Proceedings of Computer Supported Collaborative Learning (CSCL)",
     "doi": "https://ris.utwente.nl/ws/portalfiles/portal/129957345/CSCL_2019_Volume_2.pdf#page=39",
     "pages": "pp. 553–556",
-    "location": "Lyon"
+    "location": "Lyon, FR"
 }, {
     "title" : "Supporting elementary students’ learning about ecological systems through data modeling and interactive mapping in local contexts",
     "authors": "Lanouette, K., Van Wart, S., & Parikh, T. S.",
@@ -29,8 +29,17 @@
     "type": "conference",
     "venue": "Proceedings of the Conference on Innovation & Technology in Computer Science Education (ITiCSE)",
     "pages": "123–128",
-    "location": "Uppsala",
+    "location": "Uppsala, SE",
     "doi": "https://dl.acm.org/doi/10.1145/2591708.2591751"
+}, {
+    "title" : "Local Ground: A Paper-Based Toolkit for Documenting Local Geo-spatial Knowledge",
+    "authors": "Van Wart, S., Tsai, K. J., & Parikh, T.S.",
+    "date": "2010",
+    "type": "conference",
+    "venue": "Proceedings of the First ACM Symposium on Computing for Development (ACMDEV)",
+    "pages": "123–128",
+    "location": "Uppsala, SE",
+    "doi": "https://doi.org/10.1145/1926180.1926194"
 }, {
     "title" : "“Google got yo’ life”: Opening Portals for Ethical Sensemaking with Relational Design",
     "authors": "melo, natalie araujo; Reith, Ally; Nober, Ben; Van Wart, Sarah; & Vakil, Sepehr",
@@ -64,40 +73,62 @@
     "pages": "Vol. 1, pp. 343–349",
     "doi": "https://doi.dx.org/10.22318/icls2020.343"
 }, {
-    "title" : "AAA",
-    "authors": "BBB",
-    "date": "CCC",
+    "title" : "Local Ground: Supporting local, data-driven inquiry with youth",
+    "authors": "Van Wart, S., Lanouette, K., & Parikh, T",
+    "date": "2016",
     "type": "workshop",
-    "venue": "DDD",
-    "location": " EEE",
-    "pages": "FFF",
-    "doi": "GGG"
+    "venue": "Poster Session Presented at the Annual Meeting of the American Educational Research Association (AERA)",
+    "location": " Washington, D.C."
 }, {
-    "title" : "AAA",
-    "authors": "BBB",
-    "date": "CCC",
+    "title" : "Computer science meets social studies: Embedding CS in the study of locally grounded civic issues",
+    "authors": "Van Wart, S. J.",
+    "date": "2015",
     "type": "workshop",
-    "venue": "DDD",
-    "location": " EEE",
-    "pages": "FFF",
-    "doi": "GGG"
+    "venue": "Proceedings of the Eleventh Annual International Conference on International Computing Education Research (ICER)",
+    "location": "Omaha, NE",
+    "pages": "281–282",
+    "doi": "https://dl.acm.org/doi/10.1145/2787622.2787751"
 }, {
-    "title" : "AAA",
-    "authors": "BBB",
-    "date": "CCC",
-    "type": "workshop",
-    "venue": "DDD",
-    "location": " EEE",
-    "pages": "FFF",
-    "doi": "GGG"
+    "title" : "Local Ground: A Toolkit Supporting Metarepresentational Competence in Data Science.",
+    "authors": "Van Wart, S. J., & Parikh, T. S.",
+    "date": "2014",
+    "type": "poster",
+    "venue": "Poster at the International Conference of the Learning Sciences (ICLS)",
+    "location": "Boulder, CO",
+    "pages": "1589–1590"
 }, {
-    "title" : "AAA",
-    "authors": "BBB",
-    "date": "CCC",
+    "title" : "Increasing Youth and Community Agency in GIS",
+    "authors": "Van Wart, S., & Parikh, T. S.",
+    "date": "2013",
     "type": "workshop",
-    "venue": "DDD",
-    "location": " EEE",
-    "pages": "FFF",
-    "doi": "GGG"
+    "venue": "Paper Presented at the Geographic Human-Computer Interaction (GeoHCI) Workshop at SIGCHI",
+    "location": "Paris, FR",
+    "pages": "1–3",
+    "doi": "https://www-users.cs.umn.edu/~bhecht/geohci2013ps/GeoHCI2013_Proceedings.pdf"
+}, {
+    "title" : "??",
+    "authors": "??",
+    "date": "??",
+    "type": "book",
+    "venue": "??",
+    "location": "??",
+    "pages": "??",
+    "doi": "??"
+}, {
+    "title" : "??",
+    "authors": "??",
+    "date": "??",
+    "type": "magazine",
+    "venue": "??",
+    "location": "??",
+    "pages": "??",
+    "doi": "??"
+}, {
+    "title" : "In search of a \"fair explanation\": Helping young people to consider the possibilities, limitations, and risks of computer- and data-mediated systems",
+    "authors": "Van Wart, S.J.",
+    "date": "2019",
+    "type": "dissertation",
+    "venue": "Doctoral Dissertation",
+    "doi": "https://escholarship.org/content/qt58x6p9km/qt58x6p9km.pdf"
 }]
 

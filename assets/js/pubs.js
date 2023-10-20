@@ -44,6 +44,8 @@ const displayPubs = async () => {
     const groupings = {
         "Refereed Journals & Conference Proceedings": ["journal", "conference"],
         "Refereed Abstracts, Posters and Workshop Papers": ["workshop"],
+        "Other Publications": ["book", "magazine"],
+        "Doctoral Dissertation": ["dissertation"],
     };
 
     // Output pub by type:
